@@ -1,3 +1,4 @@
+//router page
 import { createWebHistory, createRouter } from "vue-router"
 import HomePage from './pages/HomePage'
 import GameDetails from './pages/GameDetails'
